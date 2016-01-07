@@ -1,0 +1,10 @@
+{
+    "name": "component-bind",
+    "description": "function binding utility",
+    "repos": "https://github.com/component/bind.git",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {},
+    "main": "index.js",
+    "version": "1.0.0"
+}
